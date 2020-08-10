@@ -10,6 +10,7 @@ I am a Professor of Statistical Science at University College London. You can fi
 - Bayesian Nonparametric Modelling of Macroeconomic Data
 - Athletic Performance Passport
 - Statistical Modelling of Environmental DNA (eDNA)
+- Efficient Computational Methods for Bayesian Variable Selection
 
 
 
