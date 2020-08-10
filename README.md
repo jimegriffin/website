@@ -1,12 +1,7 @@
 # Jim E. Griffin's Research Page
 
-## Resaerch Interests
+## Research Interests
 
-### Markdown
-
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
