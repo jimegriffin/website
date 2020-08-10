@@ -7,7 +7,9 @@ I am a Professor of Statistical Science at University College London. You can fi
 ## Research Interests
 
 ## Research Projects
-
+- Bayesian Nonparametric Modelling of Macroeconomic Data
+- Athletic Performance Passport
+- Statistical Modelling of environmental DNA (eDNA)
 
 
 
