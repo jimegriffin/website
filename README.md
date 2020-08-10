@@ -9,7 +9,7 @@ Bayesian Nonparametric Methods, Regression Modelling with High-Dimensional Data,
 
 ## Research Projects
 - Bayesian Nonparametric Modelling of Macroeconomic Data
-- Athletic Performance Passport - This is a joint project with [James Hopker](https://www.kent.ac.uk/sport-sciences/people/2184/www.kent.ac.uk/sport-sciences/people/2184/hopker-james) (University of Kent)
+- Athletic Performance Passport - This is a joint project with [James Hopker](https://www.kent.ac.uk/sport-sciences/people/2184/www.kent.ac.uk/sport-sciences/people/2184/hopker-james) (University of Kent) and is developing methods for identifying unusual changes in the performance of elite athletes can be used to inform drug-testing programmes.
 - Statistical Modelling of Environmental DNA (eDNA)
 - Efficient Computational Methods for Bayesian Variable Selection
 
