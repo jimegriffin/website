@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Jim E. Griffin's Research Page
 
 You can use the [editor on GitHub](https://github.com/jimegriffin/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
