@@ -5,6 +5,7 @@ I am a Professor of Statistical Science at University College London. You can fi
 *Currently under construction*
 
 ## Research Interests
+Bayesian Nonparametric Methods, Regression Modelling with High-Dimensional Data, Time Series Modelling in Econometrics and Finance
 
 ## Research Projects
 - Bayesian Nonparametric Modelling of Macroeconomic Data
