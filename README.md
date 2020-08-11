@@ -13,6 +13,9 @@ Bayesian Nonparametric Methods, Regression Modelling with High-Dimensional Data,
 - Statistical Modelling of Environmental DNA (eDNA)
 - Efficient Computational Methods for Bayesian Variable Selection
 
+## Preprints
+Some of my current and previous preprints are available from [arXiv.org] (https://arxiv.org/search/?searchtype=author&query=Griffin%2C+J+E)
+
 ## Code
 
 
