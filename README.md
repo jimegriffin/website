@@ -1,8 +1,9 @@
 # Jim E. Griffin's Research Page
 
-I am a Professor of Statistical Science in the [Department of Statistical Science](https://www.ucl.ac.uk/statistics/), [University College London](https://www.ucl.ac.uk). You can find information about my publications from [Google Scholar](https://scholar.google.com/citations?hl=en&user=vPUFsJcAAAAJ) or [Research Gate](https://www.researchgate.net/profile/Jim_Griffin2). | ![Picture](Jim_picture_04_02_19_3.jpg)
+I am a Professor of Statistical Science in the [Department of Statistical Science](https://www.ucl.ac.uk/statistics/), [University College London](https://www.ucl.ac.uk). You can find information about my publications from [Google Scholar](https://scholar.google.com/citations?hl=en&user=vPUFsJcAAAAJ) or [Research Gate](https://www.researchgate.net/profile/Jim_Griffin2). 
 
-*Currently under construction*
+![Picture](Jim_picture_04_02_19_3.jpg)
+
 
 ## Research Interests
 Bayesian Nonparametric Methods, Regression Modelling with High-Dimensional Data, Time Series Modelling in Econometrics and Finance
