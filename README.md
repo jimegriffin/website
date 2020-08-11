@@ -1,6 +1,6 @@
 # Jim E. Griffin's Research Page
 
-I am a Professor of Statistical Science in the [Department of Statistical Science](https://www.ucl.ac.uk/statistics/), [University College London](https://www.ucl.ac.uk). You can find information about my publications from [Google Scholar](https://scholar.google.com/citations?hl=en&user=vPUFsJcAAAAJ) or [Research Gate]](https://www.researchgate.net/profile/Jim_Griffin2).
+I am a Professor of Statistical Science in the [Department of Statistical Science](https://www.ucl.ac.uk/statistics/), [University College London](https://www.ucl.ac.uk). You can find information about my publications from [Google Scholar](https://scholar.google.com/citations?hl=en&user=vPUFsJcAAAAJ) or [Research Gate](https://www.researchgate.net/profile/Jim_Griffin2).
 
 *Currently under construction*
 
