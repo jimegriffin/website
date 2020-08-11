@@ -13,6 +13,8 @@ Bayesian Nonparametric Methods, Regression Modelling with High-Dimensional Data,
 - Statistical Modelling of Environmental DNA (eDNA)
 - Efficient Computational Methods for Bayesian Variable Selection
 
+## Code
+
 
 
 
