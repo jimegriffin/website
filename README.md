@@ -18,7 +18,7 @@ Bayesian Nonparametric Methods, Regression Modelling with High-Dimensional Data,
 Some of my current and previous preprints are available from [arXiv.org](https://arxiv.org/search/?searchtype=author&query=Griffin%2C+J+E)
 
 ## Code
-- [Matlab app](BNP-VARTool.mlappinstall) for a Bayesian nonparametric vector autoregression model [paper](https://www.sciencedirect.com/science/article/pii/S0304407617302415)
+- [Matlab app](BNP-VARTool.mlappinstall) for the Bayesian nonparametric vector autoregression model in the [Journal of Econometrics paper](https://www.sciencedirect.com/science/article/pii/S0304407617302415)
 
 
 
