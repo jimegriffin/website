@@ -9,10 +9,10 @@ I am a Professor of Statistical Science in the [Department of Statistical Scienc
 Bayesian Nonparametric Methods, Regression Modelling with High-Dimensional Data, Time Series Modelling in Econometrics and Finance
 
 ## Research Projects
-- Bayesian Nonparametric Modelling of Macroeconomic Data - This is a joint project with [Maria Kalli](https://www.kent.ac.uk/mathematics-statistics-actuarial-science/people/1102/www.kent.ac.uk/mathematics-statistics-actuarial-science/people/1102/kalli-maria) which is developing flexible models for macroeconomic time series.
-- Athletic Performance Passport - This is a joint project with [James Hopker](https://www.kent.ac.uk/sport-sciences/people/2184/www.kent.ac.uk/sport-sciences/people/2184/hopker-james) and is developing methods for identifying unusual changes in the performance of elite athletes can be used to inform drug-testing programmes.
-- Statistical Modelling of Environmental DNA (eDNA)
-- Efficient Computational Methods for Bayesian Variable Selection
+- Bayesian Nonparametric Modelling of Macroeconomic Data - This is a joint project with [Maria Kalli](https://www.kent.ac.uk/mathematics-statistics-actuarial-science/people/1102/www.kent.ac.uk/mathematics-statistics-actuarial-science/people/1102/kalli-maria) looking into flexible modelling of macroeconomic time series.
+- Athletic Performance Passport - This is a joint project with [James Hopker](https://www.kent.ac.uk/sport-sciences/people/2184/www.kent.ac.uk/sport-sciences/people/2184/hopker-james) on developing methods for identifying unusual changes in the performance of elite athletes can be used to inform drug-testing programmes.
+- Statistical Modelling of Environmental DNA (eDNA) - This is a joint project with [Eleni Matechou](https://www.kent.ac.uk/mathematics-statistics-actuarial-science/people/1039/matechou-eleni). We have recently worked on [Bayesian variable selection for model with false positives and false negative] which can be used with single species eDNA data. We are extendend these approaches to multiple species metabarcoding data using joint species distribution models.
+- Efficient Computational Methods for Bayesian Variable Selection. This work involves [Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/), [Krys Latuszynski] (https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/latuszynski/) and [Sam Livingstone] (https://www.ucl.ac.uk/statistics/department-information/staff/dr-samuel-livingstone)
 
 ## Preprints
 Some of my current and previous preprints are available from [arXiv.org](https://arxiv.org/search/?searchtype=author&query=Griffin%2C+J+E)
