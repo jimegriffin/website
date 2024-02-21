@@ -20,7 +20,7 @@ Some of my current and previous preprints are available from [arXiv.org](https:/
 ## Code
 - [Matlab app](BNP-VARTool.mlappinstall) for the Bayesian nonparametric vector autoregression model in the [Journal of Econometrics paper](https://www.sciencedirect.com/science/article/pii/S0304407617302415)
 - [Matlab code](Version3.0.zip) for the adaptive Monte Carlo methods in the [Biometrika paper](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asaa055/5918057)
-- [Matlab code](CCS_Matlab.zip) for the finding Cartesian credible sets in the ["Expressing and visualizing model uncertainty in Bayesian variable selection using Cartesian credible sets"](https://arxiv.org/abs/2402.12323)
+- [Matlab code](CCS_Matlab.zip) for the finding Cartesian credible sets in ["Expressing and visualizing model uncertainty in Bayesian variable selection using Cartesian credible sets"](https://arxiv.org/abs/2402.12323)
 
 
 
