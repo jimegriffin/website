@@ -28,6 +28,6 @@ Some of my current and previous preprints are available from [arXiv.org](https:/
 
 
 
-[test_data](https:/github.com/jimegriffin/website/blob/master/test_data.txt)
+[test_data](https://jimegriffin.github.io/website/test_data.txt)
 
 
