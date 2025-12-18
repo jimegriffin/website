@@ -25,7 +25,7 @@ Some of my current and previous preprints are available from [arXiv.org](https:/
 - [Matlab code](CCS_Matlab.zip) and [R code](CCS_R.zip) for finding the Cartesian credible sets in ["Expressing and visualizing model uncertainty in Bayesian variable selection using Cartesian credible sets"](https://arxiv.org/abs/2402.12323).
 - Code for methods developed in the "Efficient Computational Methods for Bayesian Variable Selection" project are available from [Xitong Liang's GitHub page](https://xitongliang.github.io).
 - Code for ["A loss discounting framework for model averaging and selection in time series models"](https://arxiv.org/pdf/2201.12045.pdf) is available from [Dawid Bernaciak's GitHub page](https://github.com/dbernaciak).
-- [R code](IntraInter.zip) for ["Modelling between- and within-season trajectories in elite athletic performance data"](https://arxiv.org/abs/2405.17214).
+- [R code](InterIntra.zip) for ["Modelling between- and within-season trajectories in elite athletic performance data"](https://arxiv.org/abs/2405.17214).
 
 ## Slides
 - Bayesian variable selection: [Part 1 - Basics](BVS_part1.pdf), [Part 2 - Computation](BVS_part2.pdf), and [Part 3 - GLMs and hierarchical models](BVS_part3.pdf).
