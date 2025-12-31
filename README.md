@@ -27,9 +27,6 @@ Some of my current and previous preprints are available from [arXiv.org](https:/
 - Code for ["A loss discounting framework for model averaging and selection in time series models"](https://arxiv.org/pdf/2201.12045.pdf) is available from [Dawid Bernaciak's GitHub page](https://github.com/dbernaciak).
 - [R code](InterIntra.zip) for ["Modelling between- and within-season trajectories in elite athletic performance data"](https://arxiv.org/abs/2405.17214).
 
-## Slides
-- Bayesian variable selection: [Part 1 - Basics](BVS_part1.pdf), [Part 2 - Computation](BVS_part2.pdf), and [Part 3 - GLMs and hierarchical models](BVS_part3.pdf).
-
 
 
 
