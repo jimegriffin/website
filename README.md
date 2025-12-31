@@ -6,9 +6,8 @@ I am a Professor of Statistical Science in the [Department of Statistical Scienc
 
 
 ## Research Interests
-Methodology: Bayesian Nonparametric Methods, Regression Modelling with High-Dimensional Data, Time Series Modelling and Forecasting
-
-Applications: Economic and Finance Modelling, Performance Modelling of Elite Athletes, Student Performance and Engagement
+- Methodology: Bayesian Nonparametric Methods, Regression Modelling with High-Dimensional Data, Time Series Modelling and Forecasting
+- Applications: Economic and Finance Modelling, Performance Modelling of Elite Athletes, Student Performance and Engagement
 
 ## Research Projects
 - **Bayesian Modelling of Macroeconomic Data** - This is a joint project with [Maria Kalli](https://mariakalli.github.io) looking into flexible modelling of macroeconomic time series. Recent work includes [Bayesian estimation of tensor vector autoregression models](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2447302), [Time-varying Factor Augmented Vector Autoregressions with Grouped Sparse Autoencoders](https://arxiv.org/abs/2503.04386v1) and [Time-varying tensor vector autoregression](https://arxiv.org/abs/2505.07975) with Yiyong Luo (UCL), and [Dynamic model averaging with general dependence](https://www.sciencedirect.com/science/article/pii/S0169207024000268) with Dawid Bernaciak (UCL).
