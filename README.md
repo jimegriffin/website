@@ -6,7 +6,7 @@ I am a Professor of Statistical Science in the [Department of Statistical Scienc
 
 
 ## Research Interests
-- Methodology: Bayesian Nonparametric Methods, Regression Modelling with High-Dimensional Data, Time Series Modelling and Forecasting
+- Methodology: Bayesian Nonparametrics, Regression Modelling with High-Dimensional Data, Time Series Modelling and Forecasting
 - Applications: Economic and Finance Modelling, Performance Modelling of Elite Athletes, Student Performance and Engagement
 
 ## Research Projects
