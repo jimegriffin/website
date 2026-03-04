@@ -12,7 +12,7 @@ I am a Professor of Statistical Science in the [Department of Statistical Scienc
 ## Research Projects
 ### Time Series and Forecasting
 - **Dimension reduction for large vector autoregressions** - Recent work includes [Bayesian estimation of tensor vector autoregression models](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2447302), [Time-varying Factor Augmented Vector Autoregressions with Grouped Sparse Autoencoders](https://arxiv.org/abs/2503.04386v1) and [Time-varying tensor vector autoregression](https://arxiv.org/abs/2505.07975) with Yiyong Luo (UCL).
-- **Dynamic model averaging** -- An approach for dynamic model averaging with flexible discounting using [the loss discounting framework](https://www.sciencedirect.com/science/article/pii/S0169207024000268) with Dawid Bernaciak (UCL).
+- **Dynamic model averaging** -- An approach for dynamic model averaging with flexible discounting using the [loss discounting framework](https://www.sciencedirect.com/science/article/pii/S0169207024000268) with Dawid Bernaciak (UCL).
 
 ### Modelling Athletic Performance 
 - **Performance Passport** - This is a joint project with [James Hopker](https://www.kent.ac.uk/sport-sciences/people/2184/www.kent.ac.uk/sport-sciences/people/2184/hopker-james) identifying unusual changes in the performance of elite athletes to inform anti-doping. Recent work icludes [a Bayesian model for performance evolution with inter and intra season variability](https://academic.oup.com/jrsssc/advance-article/doi/10.1093/jrsssc/qlag002/8456346?searchresult=1) and [an evaluation of performance as an indicator of doping status](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/dta.3563).
