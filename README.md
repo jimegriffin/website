@@ -22,7 +22,7 @@ I am a Professor of Statistical Science in the [Department of Statistical Scienc
 - **Expressing and Visualizing Model Uncertainty in Bayesian Variable Selection** - This work develops methods for understanding model uncertainty arising in Bayesian variable selection. Initial work looks using [Cartesian credible sets](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Expressing-and-Visualizing-Model-Uncertainty-in-Bayesian-Variable-Selection-Using/10.1214/25-BA1568.full).
 - **Variable Selection in the General Hazards model** - Joint work with [Javier Rubio](https://sites.google.com/site/fjavierrubio67/) (UCL) which develops a g-prior approach for the general hazards model where covariates can enter to the model in two separate parts. [Preprint](https://arxiv.org/abs/2602.03756).
 
-### Bayesian Nonparametric Methods
+### Bayesian Nonparametrics
 - **Survival analysis** - [flexible models for survival data](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1864381),
 - **Normalized Latent Measure Factor Models** - [factor decompositions of many densities](https://doi.org/10.1093/jrsssb/qkad062),
 - **Ecology** - [modellling open wildlife populations using Polya trees](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13756)
