@@ -23,7 +23,10 @@ I am a Professor of Statistical Science in the [Department of Statistical Scienc
 - **Variable Selection in the General Hazards model** - Joint work with [Javier Rubio](https://sites.google.com/site/fjavierrubio67/) (UCL) which develops a g-prior approach for the general hazards model where covariates can enter to the model in two separate parts. [Preprint](https://arxiv.org/abs/2602.03756).
 
 ### Bayesian Nonparametric Methods
-- Recent works includes [flexible models for survival data](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1864381), [factor decompositions of many densities](https://doi.org/10.1093/jrsssb/qkad062), [modellling open wildlife populations using Polya trees](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13756) and [an efficient general purpose implementation of the Ferguson-Klass algorithm](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2602523).
+- **Survival analysis** - [flexible models for survival data](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1864381),
+- **Normalized Latent Measure Factor Models** - [factor decompositions of many densities](https://doi.org/10.1093/jrsssb/qkad062),
+- **Ecology** - [modellling open wildlife populations using Polya trees](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13756)
+- **Simulation of non-Gaussian Levy processes** - [an efficient general purpose implementation of the Ferguson-Klass algorithm](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2602523).
 
 ### Statistical Modelling of Environmental DNA (eDNA)
 - This is a joint project with [Eleni Matechou](https://elenimatechou.github.io) (Queen Mary) and [Alex Diana](https://www.researchgate.net/profile/Alex-Diana-2) (University of Essex). We have worked on [Bayesian variable selection for model with false positives and false negative](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12390) for single species eDNA data. An Rshiny app is [available](https://nsojournals.onlinelibrary.wiley.com/doi/pdf/10.1111/ecog.05718). We have also developed [a models for qPCR data](https://link.springer.com/article/10.1007/s42519-025-00477-9) and [multi-species model for biomass changes allowing for errors in eDNA data](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2412362).
