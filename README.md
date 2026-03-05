@@ -14,7 +14,7 @@ I am a Professor of Statistical Science in the [Department of Statistical Scienc
 - **Simulation of non-Gaussian Levy processes** - [A fast implementation of the Ferguson-Klass algorithm](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2602523).
 - **Normalized Latent Measure Factor Models** - [Factor decompositions of many related densities](https://doi.org/10.1093/jrsssb/qkad062).
 -  **Survival analysis** - [Flexible Bayesian nonparametric regression models for survival data](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1864381).
-- **Ecology** - [Polya trees models](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13756) which can be applied to many typs of ecological data such as capture-recapture, coount or ring recovery.
+- **Ecology** - [Polya trees models](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13756) which can be applied to many typs of ecological data such as capture-recapture, count or ring recovery.
 
 ### Regression Modelling with High-Dimensional Data
 - **Efficient Computational Methods for Bayesian Variable Selection** - Joint work with [Sam Livingstone](https://samueljlivingstone.wixsite.com/webpage) (UCL) which looks at efficient computational methods for Bayesian variable selection in high-dimension problems and applications in areas such as genomics. Recent work includes [samplers for linear models](https://link.springer.com/article/10.1007/s11222-022-10137-8), [samplers for generalized linear models and survival analysis](https://www.mdpi.com/1099-4300/25/9/1310), and [stucture learning in graphical models](https://proceedings.neurips.cc/paper_files/paper/2023/file/8027ace571384361920665f1d1b69758-Paper-Conference.pdf).
