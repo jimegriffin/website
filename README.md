@@ -11,7 +11,7 @@ I am a Professor of Statistical Science in the [Department of Statistical Scienc
 
 ## Research
 ### Bayesian Nonparametrics
-- **Simulation of non-Gaussian Levy processes** - [An efficient general purpose implementation of the Ferguson-Klass algorithm](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2602523).
+- **Simulation of non-Gaussian Levy processes** - [A fast implementation of the Ferguson-Klass algorithm](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2602523).
 - **Normalized Latent Measure Factor Models** - [Factor decompositions of many densities](https://doi.org/10.1093/jrsssb/qkad062).
 -  **Survival analysis** - [Flexible models for survival data](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1864381).
 - **Ecology** - [Modellling open wildlife populations using Polya trees](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13756).
