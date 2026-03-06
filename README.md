@@ -7,7 +7,7 @@ I am a Professor of Statistical Science in the [Department of Statistical Scienc
 
 ## Research Interests
 - Methodology: Bayesian Nonparametrics, Regression Modelling with High-Dimensional Data, Time Series and Forecasting
-- Applications: Economic and Finance Modelling, Performance Modelling of Elite Athletes, Student Performance and Engagement
+- Applications: Economic and Finance Modelling, Anti-doping, Student Performance and Engagement
 
 ## Research
 ### Bayesian Nonparametrics
@@ -25,8 +25,9 @@ I am a Professor of Statistical Science in the [Department of Statistical Scienc
 - **Dimension reduction for large vector autoregressions** - Recent work includes [Bayesian estimation of tensor vector autoregression models](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2447302), [Time-varying Factor Augmented Vector Autoregressions with Grouped Sparse Autoencoders](https://arxiv.org/abs/2503.04386v1) and [Time-varying tensor vector autoregression](https://arxiv.org/abs/2505.07975) with Yiyong Luo (UCL).
 - **Dynamic model averaging** - An approach for dynamic model averaging with flexible discounting using the [loss discounting framework](https://www.sciencedirect.com/science/article/pii/S0169207024000268) with Dawid Bernaciak (UCL).
 
-### Modelling Athletic Performance 
+### Anti-doping
 - **Performance Passport** - This is a joint project with [James Hopker](https://www.kent.ac.uk/sport-sciences/people/2184/www.kent.ac.uk/sport-sciences/people/2184/hopker-james) (University of Kent) identifying unusual changes in the performance of elite athletes to inform anti-doping. Recent work icludes [a Bayesian model for performance evolution with inter and intra season variability](https://academic.oup.com/jrsssc/advance-article/doi/10.1093/jrsssc/qlag002/8456346?searchresult=1) and [an evaluation of performance as an indicator of doping status](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/dta.3563).
+- [An approach to risk scoring with the steroid component of the Athlete Biological Passport](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.70054)
 
 ### Student Performance and Engagement
 - **Understanding engagement from virtual learning environment logs** - This is a project with [Takoua Jendoubi](https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/people/academic-and-lecturing-staff/dr-takoua-jendoubi) (UCL) and [Ioanna Manolopoulou](https://ioannamanolopoulou.github.io) (UCL) [A time-varying measure of measuring student engagement](https://arxiv.org/abs/2507.12162).
